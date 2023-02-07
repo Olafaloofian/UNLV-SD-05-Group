@@ -11,6 +11,7 @@ for(const link of nav.getElementsByTagName('a')) {
 }
 
 window.onmousemove = e => {
+    console.log("moved")
     const percent = e.clientY / window.innerHeight,
     y = percent * nav.offsetHeight * -1;
 
