@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I'm tired
+=======
+hi its jake
+>>>>>>> e2cd21b5e936d7e82019293218d26ec35cfa69d3
 =======
 
 
